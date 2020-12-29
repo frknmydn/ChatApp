@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "700212645248",
+    "firebase_url": "https://lastchatapp-c3567.firebaseio.com",
+    "project_id": "lastchatapp-c3567",
+    "storage_bucket": "lastchatapp-c3567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700212645248:android:7074697a79eb181cf24565",
+        "android_client_info": {
+          "package_name": "com.furkanmeydan.lastchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700212645248-900d88504b2c6oaovn8iig8lsr2u5n5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.furkanmeydan.lastchatapp",
+            "certificate_hash": "d0e2b111d6cc6879c0148c903b5970a0da047a6c"
+          }
+        },
+        {
+          "client_id": "700212645248-0isiba99lsnnu2bn8i5cetgqd6gl855a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8_-cc1WX8mk7wYD_GYCm8rm99kz1B3wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700212645248-0isiba99lsnnu2bn8i5cetgqd6gl855a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

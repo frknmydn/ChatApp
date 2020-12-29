@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861193299381",
+    "firebase_url": "https://lastchatapp-e3c57.firebaseio.com",
+    "project_id": "lastchatapp-e3c57",
+    "storage_bucket": "lastchatapp-e3c57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861193299381:android:80ea599b8eb120c6caa5fc",
+        "android_client_info": {
+          "package_name": "com.furkanmeydan.lastchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861193299381-0q129b37rqbase0goprr1135ju0c1hd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeZ7ECUgmqdb6l8jOsHGlmCKHcV5Gzz2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861193299381-0q129b37rqbase0goprr1135ju0c1hd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

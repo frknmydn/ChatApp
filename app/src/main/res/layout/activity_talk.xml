@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TalkActivity">
+
+    <LinearLayout
+        android:id="@+id/linearMesajGonder"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        >
+
+
+
+        <!-- always scroll ve stackFromBottom mesaj geldikçe scrollun aşağı inmesni sağlıyor-->
+        <ListView
+            android:transcriptMode="alwaysScroll"
+            android:stackFromBottom="true"
+            android:padding="8dp"
+            android:id="@+id/listView"
+            android:layout_height="530dp"
+            android:layout_width="match_parent">
+            android:dividerHeight="0dp"
+            android:divider="@android:color/transparent"
+        </ListView>
+
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeMesajGonder"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+
+            android:id="@+id/editMesaj"
+            android:layout_width="301dp"
+            android:layout_height="42dp"
+            android:drawable="@android:color/tertiary_text_light"
+            android:hint="Mesaj Yaz"
+            ></EditText>
+
+
+        <Button
+            android:id="@+id/btnGonder"
+            android:layout_width="wrap_content"
+            android:layout_height="37dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="0dp"
+            android:text="Gönder"></Button>
+
+
+    </RelativeLayout>
+
+
+
+
+
+
+    </RelativeLayout>
+
